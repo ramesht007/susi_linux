@@ -9,9 +9,9 @@ This repository contains components to run SUSI.AI on the desktop or a headless 
 
 The functionalities of the project are provided as follows:
 
-- Hotword detection works for hotword "Susi"
-- Voice detection for Speech to Text (STT) using with Google Speech API, IBM Watson Speech to Text API
-- Voice output for Text to Speech (TTS) working with Google Voice, IBM Watson TTS, Flite TTS
+- Hotword detection works for hotword "Susi".
+- Voice detection for Speech to Text (STT) using with Google Speech API, IBM Watson Speech to Text API.
+- Voice output for Text to Speech (TTS) working with Google Voice, IBM Watson TTS, Flite TTS.
 - SUSI.AI response working through [SUSI.AI API Python Wrapper](https://github.com/fossasia/susi_python)
 
 ## Project Overview 
